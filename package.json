@@ -1,0 +1,25 @@
+{
+  "name": "testkoajs",
+  "version": "1.0.0",
+  "description": "creat API with Koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilsonLe76/testKoaJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilsonLe76/testKoaJs/issues"
+  },
+  "homepage": "https://github.com/WilsonLe76/testKoaJs#readme",
+  "dependencies": {
+    "@koa/router": "^8.0.8",
+    "koa": "^2.12.0",
+    "koa-router": "^8.0.8"
+  }
+}
